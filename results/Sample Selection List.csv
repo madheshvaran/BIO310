@@ -1,0 +1,27 @@
+"S_No","Volume_Number","Issue_Number","Date","Month","Year","Article_Type","Article_Chosen"
+1,192,1,10,"January",2011,"Research Article",7
+2,192,2,24,"January",2011,"Research Article",4
+3,192,3,7,"February",2011,"Research Article",9
+5,192,5,7,"March",2011,"Research Article",2
+7,193,1,4,"April",2011,"Research Article",3
+12,193,6,13,"June",2011,"Research Article",7
+13,193,7,27,"June",2011,"Research Article",2
+16,194,3,8,"August",2011,"Research Article",3
+21,195,2,17,"October",2011,"Research Article",6
+23,195,4,14,"November",2011,"Research Article",6
+25,195,6,12,"December",2011,"Research Article",4
+5,192,5,7,"March",2011,"Review Article",1
+19,194,6,19,"September",2011,"Review Article",1
+27,196,1,9,"January",2012,"Research Article",6
+30,196,4,20,"February",2012,"Research Article",8
+34,197,2,16,"April",2012,"Research Article",1
+35,197,3,30,"April",2012,"Research Article",1
+37,197,5,28,"May",2012,"Research Article",3
+38,197,6,11,"June",2012,"Research Article",5
+39,197,7,25,"June",2012,"Research Article",7
+40,198,1,9,"July",2012,"Research Article",3
+43,198,4,20,"August",2012,"Research Article",6
+48,199,3,29,"October",2012,"Research Article",3
+50,199,5,26,"November",2012,"Research Article",3
+33,197,1,2,"April",2012,"Review Article",2
+45,198,6,17,"September",2012,"Review Article",1
